@@ -1,0 +1,5 @@
+../Core/Src/hmc_i2c.c:10:6:I2C1_Init	4
+../Core/Src/hmc_i2c.c:58:6:I2C1_Write	7
+../Core/Src/hmc_i2c.c:85:9:I2C1_Read	8
+../Core/Src/hmc_i2c.c:129:6:I2C1_ReadBurst	10
+../Core/Src/hmc_i2c.c:175:9:isDataReady	4
