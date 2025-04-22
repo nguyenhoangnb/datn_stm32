@@ -1,0 +1,6 @@
+../Core/Src/filters.c:4:6:MovingAverage_Init	2
+../Core/Src/filters.c:13:7:MovingAverage_Update	2
+../Core/Src/filters.c:27:6:MovingAverage_Reset	1
+../Core/Src/filters.c:31:6:MedianFilter_Init	2
+../Core/Src/filters.c:39:7:MedianFilter_Update	6
+../Core/Src/filters.c:67:6:MedianFilter_Reset	1

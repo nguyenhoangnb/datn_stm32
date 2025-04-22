@@ -1,0 +1,5 @@
+../Core/Src/hmc5883l.c:17:9:HMC5883L_IsDataLocked	1
+../Core/Src/hmc5883l.c:22:9:HMC5883L_Reset	5
+../Core/Src/hmc5883l.c:49:6:HMC5883L_Init	2
+../Core/Src/hmc5883l.c:84:9:HMC5883L_Calibrate	12
+../Core/Src/hmc5883l.c:164:7:HMC5883L_GetHeading	6

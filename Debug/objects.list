@@ -1,3 +1,6 @@
+"./Core/Src/delay.o"
+"./Core/Src/filters.o"
+"./Core/Src/hmc5883l.o"
 "./Core/Src/hmc_i2c.o"
 "./Core/Src/main.o"
 "./Core/Src/stm32f4xx_hal_msp.o"

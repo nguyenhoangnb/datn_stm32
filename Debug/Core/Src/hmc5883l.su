@@ -1,0 +1,5 @@
+../Core/Src/hmc5883l.c:17:9:HMC5883L_IsDataLocked	16	static
+../Core/Src/hmc5883l.c:22:9:HMC5883L_Reset	32	static
+../Core/Src/hmc5883l.c:49:6:HMC5883L_Init	24	static
+../Core/Src/hmc5883l.c:84:9:HMC5883L_Calibrate	160	static
+../Core/Src/hmc5883l.c:164:7:HMC5883L_GetHeading	104	static
